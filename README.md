@@ -1,3 +1,3 @@
-# 5balls
+# sound game part 1 : moving parts and looping sounds
 
-https://acartagenes.github.io/5balls/.
+finished sketch: https://socalledsound.github.io/sound-game-1-starter/
